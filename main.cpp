@@ -4,8 +4,8 @@
 #include <iostream>
     using namespace std;
 
-    int main() {
+int main() {
 
-        cout << "berker";
-        return 0;
-    };
+    cout << "berker muzo";
+    return 0;
+};

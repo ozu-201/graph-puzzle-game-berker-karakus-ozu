@@ -1,3 +1,7 @@
 # ninja log v5
 0	497	7242594264806214	CMakeFiles/graph_puzzle_game_berker_karakus_ozu.dir/main.cpp.obj	9fdd3c5f82aeffc
 500	713	7242594266916215	graph_puzzle_game_berker_karakus_ozu.exe	e483a758780c1c87
+5	1300	7248629984088521	CMakeFiles/graph_puzzle_game_berker_karakus_ozu.dir/main.cpp.obj	9fdd3c5f82aeffc
+1300	1621	7248629987256446	graph_puzzle_game_berker_karakus_ozu.exe	e483a758780c1c87
+3	500	7248630730643277	CMakeFiles/graph_puzzle_game_berker_karakus_ozu.dir/main.cpp.obj	9fdd3c5f82aeffc
+501	644	7248630732043993	graph_puzzle_game_berker_karakus_ozu.exe	e483a758780c1c87
